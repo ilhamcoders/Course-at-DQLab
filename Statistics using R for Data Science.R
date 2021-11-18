@@ -97,7 +97,7 @@ mean(data_intro$Total)
 # [Estimasi Nilai Sebaran Data Range](https://academy.dqlab.id/main/livecode/15/84/486)
 
 
-max(data_intro["Pendapatan"]) - min(data_intro["Pendapatan"])
+max(data_intro$Pendapatan) - min(data_intro$Pendapatan)
 
 
 # [Estimasi Nilai Sebaran Data Varians](https://academy.dqlab.id/main/livecode/15/84/487)
